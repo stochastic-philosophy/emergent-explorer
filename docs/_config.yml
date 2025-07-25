@@ -1,8 +1,8 @@
 # _config.yml
 title: "Emergent Quantum Physics Research"
 description: "Investigating quantum emergence from nonlinear stochastic systems"
-baseurl: "/emergent-quantum-research"
-url: "https://[username].github.io"
+baseurl: "/emergent-explorer"
+url: "https://stochastic-philosophy.github.io"
 
 plugins:
   - jekyll-sitemap
